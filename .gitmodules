@@ -13,3 +13,6 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/chef-cookbooks/yum
+[submodule "python"]
+	path = python
+	url = https://github.com/poise/python
