@@ -16,3 +16,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/poise/python
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/chef-cookbooks/yum-epel
