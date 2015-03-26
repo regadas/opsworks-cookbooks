@@ -1,5 +1,5 @@
-[submodule "mongodb"]
-	path = mongodb
+[submodule "opsworks_mongodb"]
+	path = opsworks_mongodb
 	url = git@github.com:regadas/chef-mongodb.git
 [submodule "docker"]
 	path = docker
